@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entailment-corpus>
+  <pair id="1" entailment="NO" task="QA" length="long" Triple_Prediction="YES">
+    <t>Der Hubble ist ein wissenschaftliches Arbeitstier in der Blüte seiner Jahre. Er ist zudem der priviligierte Fotograf des Universums. Egal ob es sich bei den Aufnahmen um die Entstehung von Sonnensystemen, kollidierende Galaxien oder um den Todeskampf eines Sterns in einer Supernova handelt, Hubbles Fotos dokumentieren sowohl die Grausamkeit als auch die Beschaulichkeit unseres Universums.</t>
+    <h>Der Hubble ist ein Teleskop.</h>
+  </pair>
+  <pair id="2" entailment="NO" task="QA" length="long" Triple_Prediction="NO">
+    <t>Das Buch Jurassic Park ist der beste Weg um Kinder für die Wissenschaft von Dinosauriern zu begeistern! Dieser kinderfreundliche, nicht fiktionale Führer, der von zwei anerkannten Paläontologen geschrieben wurde und mit grellen Farben illustriert ist, enthält die Beschreibung von mindestens 100 Dinosauriern in alphabetischer Reihenfolge in leicht verständlichem Text.</t>
+    <h>Michael Crichton ist der Autor des Buchs Jurassic Park.</h>
+  </pair>
+  <pair id="3" entailment="YES" task="QA" length="long" Triple_Prediction="YES">
+    <t>Gianni Versaces zwei beliebteste Schlagworte waren Qualität und Zukunft. Nachdem der 50-jährige Designer letztes Jahr vor seiner Villa in Miami Beach ermordet wurde, musste seine Familie sich fast zwangsläufig bemühen, diese Worte zusammenzufügen: Sie mussten sich fragen, wie sie die Zukunft der von Versace gegründeten Firma sichern konnten, ohne den guten Ruf von deren Qualität zu opfern.</t>
+    <h>Gianni Versace ist ein Designer.</h>
+  </pair>
+  <pair id="4" entailment="NO" task="QA" length="long" Triple_Prediction="NO">
+    <t>Im Jahr 1962 erhielt Armstrong den Astronautenstatus. Er diente als Hauptpilot für die Gemini 8 Mission, die am 16. März 1966 startete, und führte zusammen mit David Scott das erste erfolgreiche Andocken von zwei Fahrzeugen im Weltall durch, indem er seine Gemini 8 mit einer unbewohnten Agena Rakete paarte.</t>
+    <h>Neil Armstrong war der erste Mann der auf dem Mond landete.</h>
+  </pair>
+  <pair id="5" entailment="YES" task="QA" length="long" Triple_Prediction="YES">
+    <t>Neil Armstrong war Pilot bei der Navy und wurde aus der zweiten Gruppe von Astronauten im Jahr 1962 auserkoren. Innerhalb des X-15 Programms (Foto von 1960) ist er siebenmal geflogen, wobei er eine Höhe von 207.500 Fuß erreichte. Er war Ersatzhauptpilot für Gemini 5, Hauptpilot für Gemini 8, Ersatzhauptpilot für Gemini 11, Ersatzpilot für Apollo 8 und Pilot für Apollo 11: und er betrat als Erster den Mond.</t>
+    <h>Neil Armstrong war der erste Mann der auf dem Mond landete.</h>
+  </pair>
+  <pair id="6" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>Das kyrillische Alphabet wird in vielen ostslavischen und südslavischen Sprachen (Weißrussisch, Bulgarisch, Mazedonisch, Russisch, Rusynisch, Serbisch, and Ukrainisch) und vielen anderen Sprachen der ehemaligen Sovietunion, Asien und Osteuropa angewandt. Es wurde zudem in der Vergangenheit in andere Sprachen benutzt. Nicht alle Buchstaben des kyrillischen Alphabets werden in jeder Sprache benutzt, die dieses Alphabet verwendet.</t>
+    <h>Kyrillisch ist ein Alphabet, das in bestimmten slavischen Sprachen wie Russisch verwendet wird.</h>
+  </pair>
+  <pair id="7" entailment="NO" task="QA" length="long" Triple_Prediction="YES">
+    <t>Elizabeth Alexandra Mary wurde am 21. April 1926 in London in England geboren. Ihr Vater Prinz Albert, Herzog von York, war der sechste Sohn von König George V. Ihre Mutter, die frühere Elizabeth Bowes-Lyon, war die Tochter eines schottischen Grafen. Prinzessin Elizabeth war ihr erstes Kind. Ihre einzige Schwester Margaret Rose wurde 1930 geboren.</t>
+    <h>Der Vater von Elizabeth der Zweiten war George VI.</h>
+  </pair>
+  <pair id="8" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>Ihre Majestät Königin Elizabeth II wurde am 21. April 1926 in London als Kind von Herzog und Herzogin von York, die später zu König George VI und Königin Elizabeth wurden, geboren. Fünf Wochen später wurde sie in der Kapelle des Buckingham Palace getauft und sie bekam die Namen Elizabeth Alexandra Mary Windsor. Die Königin bestieg den Thron am 6. Februar 1952, nach dem Tod ihres Vaters King George VI. Ihre Krönung fand am 2. Juni 1953 statt.</t>
+    <h>Der Vater von Elizabeth der Zweiten war George VI.</h>
+  </pair>
+  <pair id="9" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>George H. W. Bush diente diesem Land nicht nur als Präsident sondern auch als Vizepräsident, Kongressmitglied, Botschafter der Vereinten Nationen, Chef des U. S. Büros für die Zusammenarbeit mit den Menschen der Republik China, Direktor der Zentralstelle für Intelligenz und zudem als Marinepilot im zweiten Weltkrieg. Nachdem er von dem Krieg zurückkehrte heiratete er seine Jugendfreundin Barbara Pierce aus Rye, New York, und machte später in diesem Jahr seine erste bürgerlich erwachsene Entscheidung als er die Chance wahr nahm und nach Texas zog, wo er für den Rest seines Lebens lebte.</t>
+    <h>Der Name von George H. W. Bushs Frau ist Barbara.</h>
+  </pair>
+  <pair id="10" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>Bush und seine Frau Laura verließen das Weiße Haus am Donnerstag Nachmittag, um vier Tage in dem wäldlichen Versteck in Form eines rustikalen Häuschens in den Bergen von Maryland zu verbringenand. Neben Jenna Welch, der Mutter der Gattin des Präsidenten, besteht die Wochenendtruppe aus den Eltern des Präsidenten, dem ehemaligen Präsidenten George H. W. Bush und seiner Frau Barbara, seiner Schwester Doro Koch und ihrem Ehemann Bobby; und seinem Bruder Marvin und dessen Frau Margaret.</t>
+    <h>Der Name von George H. W. Bushs Frau ist Barbara.</h>
+  </pair>
+  <pair id="11" entailment="YES" task="QA" length="long" Triple_Prediction="YES">
+    <t>Obwohl ich auch mit Borges und Calvino vertraut bin, muss ich zugeben, dass Gabriel Garcia Marquez der einzige der anderen Autoren ist, den ich inn- und auswengig kenne, von daher weiß ich nicht welchen Unterschied das machen könnte. Es wäre beispielsweise interessant, wie dieser Unterschied auf Leute wirkt, die über Werbekunst und Architektur auf spanisch schreiben.</t>
+    <h>Gabriel Garcia Marquez ist ein Autor.</h>
+  </pair>
+  <pair id="12" entailment="NO" task="QA" length="long" Triple_Prediction="NO">
+    <t>Miteingeschlossen wäre das Vereinte Königreich, die Türkei, die "alten" Kräfte des britischen Commonwealth (Neuseeland, Australier, Kanadier, Gurkhas, Indien), Deutschland, Polen, Vietnam, einige Einheiten aus den USA, Russland, Frankreich, China (allerdings nur wenige). Japan wäre miteingeschlossen, aber aus offensichtlichen Gründen fühle ich mich unwohl das Wort "geachtet" in Zusammenhang mit japanischen Soldaten zu verwenden.</t>
+    <h>Die Gurkhas stammen aus Nepal.</h>
+  </pair>
+  <pair id="13" entailment="NO" task="QA" length="long" Triple_Prediction="YES">
+    <t>Die Stadt ist am Küstenstrich der während der Landungen am D-Day als Gold Beach bezeichnet wurde gelegen, und war einer der Strände der britischen Truppen beim alliierten Einmarsch. Arromanches war einer der Bauplätze für die beiden Mulberry Häfen, die auf der Küste der Normandie gebaut wurden. Der andere wurde weiter westlich bei Omaha Beach gebaut.</t>
+    <h>Die Landungen in der Normandie fanden im Juni 1944 statt.</h>
+  </pair>
+  <pair id="14" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>Nach monatelangem Planen und Errichten legte Oberbefehlshaber Dwight Eisenhower das Datum für die Operation Overlord auf den sechsten Juni 1944: ca. 7000 Schiffe stachen bei den britischen Inseln in See und segelten den englischen Kanal entlang und unter der Führung von Feldmarschall Bernard Montgomery landeten und stürmten 135.000 Truppen Feldmarschall Erwin Rommels deutschen Stützpunkt 80 km entlang der Küste der Normandie.</t>
+    <h>Die Landungen in der Normandie fanden im Juni 1944 statt.</h>
+  </pair>
+  <pair id="15" entailment="NO" task="QA" length="long" Triple_Prediction="NO">
+    <t>Er ist seit '82 Bundeskanzler (in einem "konstruktivem Misstrauensvotum" gewann er gegen den früheren Kanzler Helmut Schmidt von der sozialen demokratischen Partei (SPD) und wurde 1983, 1987, 1991 und 1994 wiedergewählt). Das macht Helmut Kohl diesen Oktober zum am längsten dienenden Kanzler der Bundesrepublik, länger als der erste Bundeskanzler Konrad Adenauer.</t>
+    <h>Helmut Kohls politischen Partei ist die Christlich Demokratische Union.</h>
+  </pair>
+  <pair id="16" entailment="YES" task="QA" length="long" Triple_Prediction="YES">
+    <t>Wenn man Michele Granger und Brian Goodell vergleicht, dann ist Brian der klare Gewinner. Im Jahr 1976, als er noch Student an der Mission Viejo High war, gewann Brian zwei olympische Godlmedallien in Montreal, wo er seinen eigenen Weltrekord über 400 und 1500 m Freistil brach. Danach gewann er 1979 drei Goldmedallien bei den Pan American Games.</t>
+    <h>Brian Goodell gewann drei Goldmedallien bei den Pan American Games 1979.</h>
+  </pair>
+  <pair id="17" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>Vor über einem Jahrzehnt stand Carl Lewis kurz vor der großartigsten athletischen Karriere aller Zeiten. Er hatte gerade zwei der legendären Jesse Owens Universitätsrekorde gebrochen, glaubte aber nie daran, dass er zu einer gesellschaftlichen Ikone werden würde und der Fokus von hunderten von Millionen Dollars der Werbeindustrie. Sein Sport war im wahrsten Sinne des Wortes immer noch amateurhaft. Achtzehn olympische und weltmeisterschaftliche Goldmedallien und 21 Weltrekorde später wurde Lewis zum reichsten Mann in der Geschichte der Leichtathletik -- ein Multimillionär.</t>
+    <h>Carl Lewis gewann achtzehn Goldmedallien und 21 Weltrekorde.</h>
+  </pair>
+  <pair id="18" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>Der Segler Melvyn Percy ärgerte sich so sehr über die Gebrauchsanleitung, als er sein Boot für die 3000 Meilen Atlantiküberquerung vorbereitete, dass er seine eigene Firma on the Clyde gründete um schottische Segler mit professionellen Ratschlägen und praxisnaher Hilfe zur Seite zu stehen. Minerva Rigging bei Kip Marina, südlich von Gourock, beschäftigt zur Zeit fünf Vollzeitarbeiter und ist der schottische Schiffsmakler für Kemp, einem in Europa führenden Jachten- und Masthersteller.</t>
+    <h>Melvyn Percy hat Minerva Rigging in Kip Marina gegründet.</h>
+  </pair>
+  <pair id="19" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>Von allen Nationalparks in den Vereinigten Staaten ist kein geringerer als die Everglades näher an einer großen Stadt gelegen oder mit mehr Problemen belastet. Die Everglades sind ein flacher 50 Meilen breiter Fluss aus Gras, der sülich von Lake Okeechobee nach Florida Bay fließt. Länger als eine Generation wurde dieses anfällige Naturwunder, das so komplex wie das Ökosystem selbst ist, aus den unterschiedlichsten Interessen -- von Bauern, Sportlern,  ungefähr 6 Millionen Haushalten in Südflorida, die Trinkwasser benötigen, und Hochwasserkontrollen -- ausgebeutet.</t>
+    <h>Die Everglades haben einen Umfang von 50 Meilen.</h>
+  </pair>
+  <pair id="20" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>Aeschylus gilt als Vater der griechischen Tragödie; er schrieb die ältesten vollständig erhaltenen Dramen des antiken Griechenland. Es ist bekannt, dass er mehr als 90 Stücke geschrieben hat, obwohl nur sieben vollständig erhalten blieben. Das bekannteste ist die Trilogy, die als Orestia berühmt ist. Zu den bekanntesten zählen zudem The Persians und Prometheus Bound.</t>
+    <h>"The Persians" wurde von Aeschylus geschrieben.</h>
+  </pair>
+  <pair id="21" entailment="NO" task="QA" length="long" Triple_Prediction="YES">
+    <t>Kanada gilt offiziell als zweisprachiges Land, aber mit mehr als 60% der Bevölkerung deren Muttersprache Englisch ist und nur 24% die Französisch als Hauptsprache sprechen, fragen sich manche Leute, ob Kanada wirklich eine bilinguale Nation ist oder nur eine bilinguale Nation auf dem Papier ist. Französisch stellt nicht die einzige sprachliche Minderheit in Kanada dar. Es wird, gemäß der Bevölkerung, auch Chinesisch, Italienisch, Deutsch, Polnisch, Spanisch, Portugisisch, Pandschabi, Ukrainisch, Arabisch, Holländisch, Tagalog, Griechisch, Vietnamesisch, Cerr und Inuktitut gesprochen.</t>
+    <h>Französisch ist die gängigste Sprache in Québec.</h>
+  </pair>
+  <pair id="22" entailment="NO" task="QA" length="long" Triple_Prediction="NO">
+    <t>Ein Jahr nach dem Tsunami im indischen Ozean, lebte die Trauer und das Mitgefühl der Welt erneut an den von dem Tsunami zerstörten Küstenlinien auf, wo 216.000 Menschen ihr Leben ließen. Unter klarem Himmel und vor ruhiger See gedachte die Welt derer, die ihr Leben bei der schlimmsten Naturkatastrophe der Moderne verloren.</t>
+    <h>Erdbeben können der Auslöser für einen Tsunami sein.</h>
+  </pair>
+  <pair id="23" entailment="YES" task="QA" length="short" Triple_Prediction="NO">
+    <t>Der brasilianische Kardinal Dom Eusbio Oscar Scheid, Erzbischof von Rio de Janeiro , übte scharfe Kritik an dem brasilanischen Präsidenten Luiz Inácio Lula da Silva, nachdem dieser am Dienstag in Rom ankam.</t>
+    <h>Luiz Inácio Lula da Silva ist der brasilianische Präsident.</h>
+  </pair>
+  <pair id="24" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>Laut Mitglieder des brasilianischen Gerichts könnte der Präsident Luiz Inácio Lula da Silva angeklagt werden, wenn es Beweise dafür gibt, dass er wirklich in einige der vermeintlichen Skandale verwickelt ist, oder wenn jemand beweisen kann, dass er fahrlässig gehandelt hat.</t>
+    <h>Luiz Inácio Lula da Silva ist der brasilianische Präsident.</h>
+  </pair>
+  <pair id="25" entailment="NO" task="QA" length="long" Triple_Prediction="NO">
+    <t>Ein von fünf Mitgliedern der UN Kommission angefertigter Bericht hielt "die Tötung von Zivilisten, deren erzwungenes Verschwinden, die Zerstörung von Dörfern, Vergewaltigung und andere Formen sexuellen Missbrauchs, Plünderung und gewaltsame Entfernung in ganz Darfur" fest, und nannte die geheimen Namen von vermeintlichen Kriegsverbrechern, die vor das ICC treten sollten.</t>
+    <h>Mehr als 200.000 Menschen wurden beim Luftangriff auf die Region von Dafur getötet.</h>
+  </pair>
+  <pair id="26" entailment="NO" task="QA" length="long" Triple_Prediction="NO">
+    <t>Tausende Rumänen nahmen bei der Zusammenkunft am Montag teil, um sich für die Freilassung von drei rumänischen Journalisten stark zu machen, die letzten Monat im Irak gekidnappt wurden. Die Menschenmenge hatte nach kleineren Zusammenkünften am Wochenende, die von rumänischen Werbekaufleuten und der arabischen Gemeinde Rumäniens gesponsort wurden, an Größe zugenommen.</t>
+    <h>Rumänien hat 730 Truppen in den Irak gesendet.</h>
+  </pair>
+  <pair id="27" entailment="NO" task="QA" length="long" Triple_Prediction="YES">
+    <t>Dr. Michele Dougherty, der leitender Forscher des Cassini Magnetfeldstärkenmessgerät und Professor am Imperial College in London, sagte: "Diese neuen Ergebnisse von Cassini sind eventuell der erste Beweis von Gasen, die entweder auf der Oberfläche oder im Inneren von Enceladus entstehen". Wissenschaftler haben vermutet, dass Enceladus geologisch aktiv sei und sahen ihn als mögliche Quelle für den eisigen E Ring des Saturn. Enceladus ist das am stärksten reflektierende Objekt des Sonnensystems, das ungefähr 90 Prozent des Sonnenlichts von dem es getroffen wird reflektiert.</t>
+    <h>Titan ist der fünfzehnte von Saturns bekannten Satelliten.</h>
+  </pair>
+  <pair id="28" entailment="YES" task="QA" length="long" Triple_Prediction="YES">
+    <t>TWA verbindet über New York eine Fluglinie nach Frankfurt. Die deutsche Fluggesellschaft Lufthansa fliegt täglich auf direktem Weg von Los Angeles nach Frankfurt und die Fluggesellschaft teilt sich Mittwochs, Freitags und Sonntags Flüge mit Lauda Air, einem österreichischen Transportunternehmen, um auf direktem Weg nach München zu fliegen. LTU ist eine weitere deutsche Fluggesellschaft die Montags und Donnerstags auf direktem Weg von Los Angeles nach Düsseldorf und München fliegt. Frankfurt bildet für die meisten kleineren Städte Deutschlands das Zentrum um zu Reisen.</t>
+    <h>Lufthansa ist eine deutsche Fluggesellschaft.</h>
+  </pair>
+  <pair id="29" entailment="YES" task="QA" length="long" Triple_Prediction="YES">
+    <t>Der neunte November 1989 war der Tag an dem die Berliner Mauer fiel und an dem sich die Welt für immer veränderte. Nicht einmal der Scharfsinnigste hatte es geahnt. Als der ungarische Außenminister Gyula Horn im Spätsommer 1989 die Ostdeutschen zum Besuch einlud, nutzen die Ostdeutschen sein Land für einen 400 Meilen Endlauf um die Berliner Mauer. Diese Bewegung wird nun als der Anfang vom Ende des strengen Kapitalismus in Europa gesehen.</t>
+    <h>Die Berliner Mauer wurde 1989 niedergerissen.</h>
+  </pair>
+  <pair id="30" entailment="NO" task="QA" length="long" Triple_Prediction="NO">
+    <t>Er sagte, dass der Weltmarkt "stark genug sein sollte diesen Vorfall ohne bleibende Schäden zu verkraften". "Ich möchte betonen, dass der Fall Barings einzigartig ist, und dass anderen Banken die in London operiern, nicht das gleiche passiern soll". Er sagte das Barings Verluste von mindestens 600 Millionen bei Verträgen an den drei Börsen Singapur, Osaka und Tokyo verzeichnen musste, und das 'weitere quantitativ nicht bestimmbare Verluste' zu erwarten seien.</t>
+    <h>Die Bankgesellschaft Barings kollabierte aufgrund von Nick Leesons Spekulationen.</h>
+  </pair>
+  <pair id="31" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>Doyle sagte: "Durch das Vertrauensvotum kommt es zu einem Schwung". Der Schwung scheint sich Richtung Süden zu bewegen. Die mexikanische Wahl ist der neuste Indikator dafür, dass die Reformen der freien Marktwirtschaft, die Lateinamerika während des letzten Jahrzehnts vom Markt gefegt haben, an politischer Anerkennung gewinnen. Als Reaktion auf die mexikanische Wahl und auf Neuwahlen, die für den Präsidentschaftskandidaten der freien Marktwirtschaft Fernando Henrique Cardoso günstig stehen, stiegen die Preise in Brasilien stark an.</t>
+    <h>Fernando Henrique Cardoso ist Präsidentschaftskandidat.</h>
+  </pair>
+  <pair id="32" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>Obwohl er mit der geringsten Mehrheit einer regiernden Partei gewählt wurde, mit 48,7% der Stimmen, hatte er fast doppelt so viele Stimmen wie der Außenseiter Diego Fernandez de Cevallos, der rechtsorientierte Zweitplazierte. Zugehörige sind nun begünstigt die Wahlen in Lateinamerika kommenden Monat zu gewinnen: In der ersten Runde der Präsidentschaftswahlen in Brasilien wird der ehemalige Senatsvorsitzende und Kabinettsminister Fernando Henrique Cardoso das Rennen vor dem Außenseiter Luis Inacio (Lula) da Silva, dem linksorientierten früheren Gewerkschaftsführer, machen.</t>
+    <h>Fernando Henrique Cardoso ist ein brasilianischer ehemaliger Senatsvorsitzender und Kabinettsminister.</h>
+  </pair>
+  <pair id="33" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>Das würde Länder in dieser Region dazu drängen sich zwischen den Vereinigten Staaten und Japan zu entscheiden -- oder vielleicht zwischen Japan und China. Und es wäre zum Scheitern verurteilt, egal was die neu gegründete Asia Pacific Economic Cooperation (APEC) dem amerikanischen Handel bezüglich des Zugangs zu den boomenden pazifischen Märkten verspricht. Ein derartiges Risiko für ein fehlerhaftes Konzept einzugehen wäre dumm. Die verständliche Frustration der Behörde bezüglich des beharrlich großen japanischen Handelsüberschusses kann nicht geleugnet werden.</t>
+    <h>APEC ist die neu gegründete Asia Pacific Economic Cooperation.</h>
+  </pair>
+  <pair id="34" entailment="YES" task="QA" length="short" Triple_Prediction="NO">
+    <t>Es handelt sich um eine Unabhängigkeitsbewegung der tamilischen Bevölkerung des nördlichen Sri Lanka -- dem antiken Land der Ceylon, die 1948 von Großbritannien unabhängig wurden und daraufhin im Jahr 1972 den Namen Sri Lanka, einem sinahlesischen Wort, annahmen.</t>
+    <h>Der heutige Name Ceylons ist Sri Lanka.</h>
+  </pair>
+  <pair id="35" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>Artikel 19 besagt dass ein Korrespondent der unabhängigen Zeitung Narodnaya Volya, der versucht hat die Anzahl der überlebenden Rettungshelfer zu bestimmen, die in dem verseuchten Gebiet um das Kernkraftwerk Chernobyl nach der Katastrophe von 1986 arbeiteten, von dem Ministerium für Notfälle darüber unterrichtet wurde, dass nicht-staatlichen Zeitungen die Information verweigert werden könnte.</t>
+    <h>The catastrophe at Chernobyl happened in 1986.</h>
+  </pair>
+  <pair id="36" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>Nachdem er Time-Life verlassen hatte, ist Shuker dem Public Broadcast Laboratory, dem Vorläufer von PBS, beigetreten und wirkte in zwei bahnbrechenden Filmen mit -- In 'The Chair' der von einem Anwalt handelt, der versucht einem verurteilten Mann zu helfen und in 'Free At Last', einer 90- minütigen Dokumentation über Dr. Martin Luther King Jr., der zufällig zu der Zeit gedreht wurde, als King 1968 ermordet wurde.</t>
+    <h>Martin Luther King wurde 1968 ermordet.</h>
+  </pair>
+  <pair id="37" entailment="NO" task="QA" length="long" Triple_Prediction="NO">
+    <t>Unterdessen rezitierte Dmitri Prigov, ein postmoderner Dichter und konzeptioneller Künstler, beim Pushkin-Goethe Fest in Moskau, zu Ehren des Geburtstages des Dichters (dieses Jahr ist Goethes 250er Geburtstag), den ersten Vers von "Onegin" ("Mein Onkel - hohe Ideale inspirieren ihn") und näherte diesen buddhistischen und muslimischen Mantras und russisch orthodoxen und gregorianischen Liedern an.</t>
+    <h>Johann Wolfgang von Goethe wurde in Deutschland geboren.</h>
+  </pair>
+  <pair id="38" entailment="NO" task="QA" length="long" Triple_Prediction="NO">
+    <t>Anand sagte, indem er einen Funktionsbereich ansprach, der hier von der nationalen Menschenrechtskommission (NHRC) organisiert wird, dass die größten und dringensten Herausforderungen der Menschenrechte in Indien die Bereiche Kinderpflege, Kindererziehung, Kinderarbeit, Kindesmissbrauch und der Schutz von Minderheiten und Schwachen umfasse.</t>
+    <h>Amnesty International schützt Menschenrechte.</h>
+  </pair>
+  <pair id="39" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>Der französische Präsident Jacques Chirac, ein Konservativer wie Kohl, und der Premierminister Lionel Jospin, dessen sozialistische Genossen in Schröders Sozialdemokraten eine Fortsetzung eines europäischen Trends sehen, der ihnen und der Labor Partei des britischen Premierministers Tony Blair, zu Macht verhalfen, zollten beiden gleichermaßen Anerkennung.</t>
+    <h>Tony Blair gehört der Labor Partei an.</h>
+  </pair>
+  <pair id="40" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>Die Berater des britischen Premierministers Tony Blair, dessen Labor Partei vor 13 Monaten an die Macht kam und der der derzeitige EU Präsident ist, sagten, dass die Vorsitzenden übereinstimmenden feststellten - ohne sich gegenseitig blamieren zu wollen - dass die aus Belgien stammende Bürokratie der EU sowohl weltentrückt als auch herrisch sei.</t>
+    <h>Tony Blair gehört der Labor Partei an.</h>
+  </pair>
+  <pair id="41" entailment="YES" task="QA" length="long" Triple_Prediction="NO">
+    <t>Die Theorie, ein Konzept, dass erstmals von Albert Einstein aufgestellt wurde und oft von dem britischen Astrophysiker Stephen Hawkin wieder aufgegriffen wurde, forscht nach einem einfachen Satz mathematischer Gleichungen, die alle fundamentalen Kräfte des Universums erklären können: Schwerkraft, Elektromagnetismus, und den starken und schwachen wechselwirkenden Kräften zwischen subnuklearen Teilchen.</t>
+    <h>Stephen Hawking ist ein Physiker.</h>
+  </pair>
+  <pair id="42" entailment="NO" task="QA" length="long" Triple_Prediction="NO">
+    <t>Ein Zustand mit dem Namen "soziale Angsstörung" wurde diese Woche in die lange Liste der negativen Gefühle eingefügt, die Fettleibigkeit, Impotenz, Depression und Phobien unfassen, die von den Amerikanern damals einheitlich als eine Herausforderung an die Willenskraft und Persönlichkeit gesehen wurden, aber nun durch die Einnahme einer Pille behandelt werden.</t>
+    <h>Eine Phobie ist eine extreme Form der Angst vor einer bestimmten Sache oder einer bestimmten Situation.</h>
+  </pair>
+  <pair id="43" entailment="NO" task="QA" length="short" Triple_Prediction="YES">
+    <t>Der Hubble ist eines der außergewöhnlichsten Geräte in der gesamten Geschichte der Wissenschaft.</t>
+    <h>Der Hubble ist ein Teleskop.</h>
+  </pair>
+  <pair id="44" entailment="YES" task="QA" length="short" Triple_Prediction="YES">
+    <t>Jurassic Park ist ein Roman von Michael Crichton. Jurassic Park wurde 1990 publiziert.</t>
+    <h>Michael Crichton ist der Autor des Buchs Jurassic Park.</h>
+  </pair>
+  <pair id="45" entailment="YES" task="QA" length="short" Triple_Prediction="YES">
+    <t>Boris Becker ist eine echte Tennislegände. Im Alter von 17 Jahren gewann er zum ersten Mal Wimbledon und wurde zum reichsten Tennisspieler.</t>
+    <h>Boris Becker ist ein Wimbledongewinner.</h>
+  </pair>
+  <pair id="46" entailment="NO" task="QA" length="short" Triple_Prediction="YES">
+    <t>Boris Becker ist ein ehemaliger Profitennisspieler aus Deutschland.</t>
+    <h>Boris Becker ist ein Wimbledongewinner.</h>
+  </pair>
+  <pair id="47" entailment="YES" task="QA" length="short" Triple_Prediction="NO">
+    <t>Am sechsten August 1945 wurde eine Atombombe über Hiroshima abgeworfen mit einer geschätzten explosiven Kraft von 12.500 Tonnen TNT, der drei Tage später eine noch gewaltigere Bombe auf Nagasaki folgte.</t>
+    <h>Im Jahr 1945 wurde eine Atombombe auf Hiroshima geworfen.</h>
+  </pair>
+  <pair id="48" entailment="YES" task="QA" length="short" Triple_Prediction="NO">
+    <t>Er interviewte Shigeko Sasamori im Dezember 2004. Frau Sasamori war 13 Jahre alt als die Atombombe auf Hiroshima abgeworfen wurde (sechster August  1945).</t>
+    <h>Im Jahr 1945 wurde eine Atombombe auf Hiroshima geworfen.</h>
+  </pair>
+  <pair id="49" entailment="YES" task="QA" length="short" Triple_Prediction="NO">
+    <t>Am sechsten August 1945 wurde eine Atombombe auf die japanische Stadt Hiroshima abgeworfen. Die Enola Gay, die von Oberst Tibbetts gesteuert wurde, wurde für die Mission auserwählt. Die Mission wurde um 9.20 Uhr von Hauptmann William S. Parson als erfüllt bestätigt.</t>
+    <h>Im Jahr 1945 wurde eine Atombombe auf Hiroshima geworfen.</h>
+  </pair>
+</entailment-corpus>
+

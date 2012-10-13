@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<locatingRules xmlns="http://thaiopensource.com/ns/locating-rules/1.0">
+  <uri resource="t.xml" uri="rawinput.rnc"/>
+  <uri resource="t.xml" uri="rawinput.rnc"/>
+  <uri resource="t.xml" uri="rawinput.rnc"/>
+</locatingRules>

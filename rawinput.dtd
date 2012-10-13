@@ -1,0 +1,13 @@
+<!-- XML schema for entailment raw input data format, following Specification 1.1. This format is based on RTE-5, but extended with two corpus-wide attributes: language, and channel. See specification section 5.2.  --> 
+<!ELEMENT entailment-corpus (pair+)>
+<!ATTLIST entailment-corpus
+lang CDATA #IMPLIED
+channel CDATA #IMPLIED>
+<!ELEMENT pair (t,h)>
+<!ATTLIST pair
+id CDATA #REQUIRED
+entailment (ENTAILMENT|NONENTAILMENT|CONTRADICTION|
+PARAPHRASE|UNKNOWN) #IMPLIED
+task (IR|IE|QA|SUM) #REQUIRED >
+<!ELEMENT t (#PCDATA)>
+<!ELEMENT h (#PCDATA)>

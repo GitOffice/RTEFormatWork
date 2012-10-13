@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entailment-corpus lang="DE">
+  <pair id="1" entailment="NONENTAILMENT" task="IR">
+    <t>Allgemein ausgedrückt handelt es sich bei "Kinderarbeit" um Arbeit für Kinder, die ihnen Schaden zufügt oder sie in irgendeiner Weise ausnutzt (körperlich, geistig, moralisch, oder durch das Verweigern des Bildungszugangs).</t>
+    <h>Kinderarbeit ist in Asien weit verbreitet.</h>
+  </pair>
+  <pair id="2" entailment="ENTAILMENT" task="IR">
+    <t>"Klebstoffschnüffeln" ist unter Jugendlichen am beliebtesten. Sie hören normalerweise damit auf, sobald sie an andere Drogen wie Alkohol und Kannabis kommen. Bereits siebenjährige beginnen mit dem "Klebstofschnüffeln". Wegen der sozialen Stigma, die mit dem "Klebstoffschnüffeln" in Verbindung gebracht werden, hören die meisten Schnüffler im Alter von 16 oder 17 Jahren damit auf, es sei denn, sie sind ernsthaft abhängig.</t>
+    <h>"Klebstoffschnüffeln" gehört bei Jugendlichen zum Alltag.</h>
+  </pair>
+  <pair id="3" entailment="NONENTAILMENT" task="IR">
+    <t>Die Erlaubnis für die im Exil lebende italienische königliche Familie nach Italien zurückzukehren scheint gegeben, nach der Feststellung, dass das Familienoberhaupt Prince Vittorio Emmanuele, den italienischen Presidenten korrekt angesprochen hat. Er nannte presiden Ciampi "unser President, President aller Italiener".</t>
+    <h>Die italienische Königsfamilie kehrt nach Hause zurück.</h>
+  </pair>
+  <pair id="4" entailment="ENTAILMENT" task="IR">
+    <t>Er ist ein ehemaliger Philosophie Lehrer, dessen bekanntester Roman "Sophies Welt" überrachenderweise ein internationaler Bestseller wurde.</t>
+    <h>Sophies Welt ist ein "Bestseller".</h>
+  </pair>
+  <pair id="5" entailment="NONENTAILMENT" task="IR">
+    <t>Eine große Anzahl junger ukrainischer Kinder leiden unter zahlreichen gesundheitlichen Problemen, die bis heute nicht richtig diagnostiziert wurden, jedoch mit der Katastrophe von Chernobyl in Verbindung gebracht werden. Dies deutet sehr deutlich auf ein schwaches Gesundheitssystem und schwierige Lebensumstände hin.</t>
+    <h>Chernobyl hatte auch Folgen für Länder außerhalb der ehemaligen UdSSR.</h>
+  </pair>
+  <pair id="6" entailment="ENTAILMENT" task="IR">
+    <t>Ein heftiger Taifun ist am Donnerstag mit Regen und Wind auf den nördlichen und mittleren Philippinen eingeschlagen, und hat dabei mindestens drei Menschen getötet und Straßen aufgerissen. Die Behörden ließen Flüge streichen, den Fährdienst einstellen und Schulen schließen. Die philippinische Wetterstation meldete, dass der Taifun Xangsane über Nacht mit einer Windstärke von 81 Meilen pro Stunde in der Hauptregion von Bicol landete und laut Wettervorhersage durch die Hauptstadt Manila ziehen würde.</t>
+    <h>Ein Taifun schlägt auf den Philippinen ein.</h>
+  </pair>
+  <pair id="7" entailment="NONENTAILMENT" task="IR">
+    <t>Eine undichte Stelle bei der radioaktiven Strahlung im Kernkraftwerk von Yeonggwang in der südlichen Provin Jeolla, überzeugte die Beamten davon, die Einrichtung gestern zu schließen.</t>
+    <h>Das Kernkraftwerk von Sosnovyi Bor erleidet eine Notschließung.</h>
+  </pair>
+  <pair id="8" entailment="NONENTAILMENT" task="IR">
+    <t>Eine Serie von Projekten mit dem Ziel Lösungen für einige der Folgen des Chernobyl Unfalls zu finden, wurden während der Vorarbeiten für das UNESCO Chernobyl Programm ins Leben gerufen. Die IHP organisierte einen Workshop, bei dem gegenwärtiges Wissen über den Übergang von Radionuklid in den Wasserkreislauf wiederholt und verglichen wurde.</t>
+    <h>Chernobyl hatte auch Folgen für Länder außerhalb der ehemaligen UdSSR.</h>
+  </pair>
+  <pair id="9" entailment="NONENTAILMENT" task="IR">
+    <t>Ein Selbstmordanschlag ist ein Attentat, bei dem der oder die Attentäter vorhaben andere menschen zu töten und planen während des Vorgangs selbst zu sterben (siehe Selbstmord). Genau genommen stirbt der Selbstmordattentäter seinem Anschlag (zum Beispiel bei einer Explosion oder bei einem Zusammenstoß des Attentäters).</t>
+    <h>Bei einem Selbstmordanschlag in Tamil wurden Menschen getötet.</h>
+  </pair>
+  <pair id="10" entailment="NONENTAILMENT" task="IR">
+    <t>A unique feature of previous Ebola outbreaks has been the relative sparing of children. For the first time, an out break of an unusual illness-Ebola haemorrhagic fever occurred in Northern Uganda - Gulu district.</t>
+    <h>Ebola Epidemic breaks out in Zaire.</h>
+  </pair>
+  <pair id="11" entailment="NONENTAILMENT" task="IR">
+    <t>Begleitet von betenden Sioux und lauten Klängen von schottischen Dudelsäcken, wurde ein einfaches Baumwollhemd vergangenen Sommer nach South Dakota zurück gebracht.</t>
+    <h>Ein Geisterhemd der Sioux wurde von einem schottischen Museum zurück gebracht.</h>
+  </pair>
+  <pair id="12" entailment="ENTAILMENT" task="IR">
+    <t>Der Schauspieler Christopher Reeve, der vor allem durch seine Rolle als Supermann bekannt wurde, ist gelähmt und kann nicht ohne Beatmungsgreät atmen, nachdem er sich am Samstag in Culpeper, Va., bei einem Reitunfall das Genick brach.</t>
+    <h>Christopher Reeve hatte einen Unfall.</h>
+  </pair>
+  <pair id="13" entailment="NONENTAILMENT" task="IR">
+    <t>Nach jahrelanger Untersuchung hat die Glaubensgemeinde des Vatikan den Kirchoberhäuptern ein vertrauliches Dokument zukommen lassen, in dem beschlossen wurde, dass "Geschlechtsumwandlungen" in den Augen der Kirche nicht das Geschlecht eines Menschen ändern.</t>
+    <h>Geschlechtsumwandlungen werden immer natürlicher.</h>
+  </pair>
+  <pair id="14" entailment="NONENTAILMENT" task="IR">
+    <t>Obwohl die Zahl der verzeichneten Ebolafälle in Gabon auf 26 und in Congo Brazzaville um 16 gestiegen ist, sind neue Ansteckungen so gering, dass es scheint, als ob die Ebedemie "aussterbe".</t>
+    <h>Die Ebola Epedemie bricht in Zaire aus.</h>
+  </pair>
+  <pair id="15" entailment="ENTAILMENT" task="IR">
+    <t>Anna Politkovskaya wurde am Samstag tot in einem Lift in ihrem Wohnblock in der russischen Hauptstadt Moskau aufgefunden.</t>
+    <h>Anna Politkovskaya wurde ermordet.</h>
+  </pair>
+  <pair id="16" entailment="ENTAILMENT" task="IR">
+    <t>Nukleargegner haben am Mittwoch den Transport von radioaktivem Abfall zu einer Müllhalde in Norddeutschland unterbrochen. Der Zug musste, seit er in Deutschland angekommen war, vier Mal auf seinem Weg nach Lüneburg anhalten.</t>
+    <h>Beim nuklearen Abfalltransport kam es in Deutschland zu Verzögerungen.</h>
+  </pair>
+  <pair id="17" entailment="NONENTAILMENT" task="IR">
+    <t>Arlene Blum ist im wahrsten Sinne des Wortes eine Bahnbrecherin. Der Kletterverordnung der 1970er zum Trotz, führte sie die ersten Frauenteams, die erfolgreich den Mount McKinley und Annapurna bestiegen und sie war die erste Frau, die sich am Mount Everest versuchte. In ihrer langen, abenteuerlichen Karierre, spielte sie eine Führungsrolle in mehr als zwanzig Expeditionen und etablierte Frauen im gefährlichen Gebiet des Höhenbergsteigens.</t>
+    <h>Eine Frau bestieg alleine erfolgreich den Everest.</h>
+  </pair>
+  <pair id="18" entailment="ENTAILMENT" task="IR">
+    <t>Rund 130 Flüge wurden bei einem Streik vom 19. Januar gesperrt und weitere Flüge wurden in den folgenden Tagen gecancellt. Als die Flugbegleiter einen weiteren 24 Stunden Streik am 23. Januar bekannt gaben, klagte die italienische Sicherheitsbehörde (Commissione di Garanzia), die Streiks im unverzichtbaren öffentlichen Dienst regelt, die Gewerkschaft (unter den Paragraphen Nr. 194/1990 und Nr. 83/2000) (IT0004266F) an, gegen die Rechtsvorschrift verstoßen zu haben, die besagt, dass zehn Tage zwischen einem und dem nächsten Streik liegen müssen.</t>
+    <h>Italienische Flugbegleiter streiken.</h>
+  </pair>
+  <pair id="19" entailment="NONENTAILMENT" task="IR">
+    <t>Da sich die Parteien den neuen Bedingungen anpassen, ist es sehr wahrscheinlich, dass neue Definitionen - die mit neuen Anforderungen ihrer Funktionen einhergehen - die laufende Debatte ihrer Rollen und Funktionen im 21. Jahrhundert bestimmen werden.</t>
+    <h>Es wurden einige neue politische Parteien gegeründet.</h>
+  </pair>
+  <pair id="20" entailment="NONENTAILMENT" task="IR">
+    <t>As the terms denoting this allowance vary, it may sometimes remain unclear whether fathers have any entitlements at all, and if so, to what exactly they are entitled.</t>
+    <h>Maternity leave varies in Europe.</h>
+  </pair>
+  <pair id="21" entailment="ENTAILMENT" task="IR">
+    <t>Die Zahl von Kinderarbeit ist in Asien am höchsten, aber Schwarzafrika hat die größte Anzahl arbeitender Kinder, gemessen an der Bevölkerungszahl.</t>
+    <h>Kinderarbeit ist in Asien weit verbreitet.</h>
+  </pair>
+  <pair id="22" entailment="ENTAILMENT" task="IR">
+    <t>Mindestens acht Menschen wurden bei Bombenanschlägen auf Sri Lankas militärische Kommandostelle getötet, während der Militärchef schwer verletzt wurde. Lt Gen Sarath Fonseka Zustand ist nach einer Operation in Colombo, dem Ort, an dem der Anschlag statt fand, stabil. Das Militär macht die Tamil Tiger Rebellen für den Anschlag verantwortlich, und begann einen Luftstreik auf ihrer Position im Osten.</t>
+    <h>Menschen wurden bei einem Selbstmordanschlag getötet.</h>
+  </pair>
+  <pair id="23" entailment="NONENTAILMENT" task="IR">
+    <t>Athletics' governing body, the IAAF, last week cleared Ottey of accusations of steroid use and lifted a two-year ban after their arbitration panel said the IOC-accredited lab in Lausanne improperly tested Ottey's urine sample.</t>
+    <h>Sportswomen have been accused of doping.</h>
+  </pair>
+  <pair id="24" entailment="NONENTAILMENT" task="IR">
+    <t>Basierend auf einer weltweiten Erhebung, die Rauchen mit Feuer und Unglücksfällen in Verbindung bringt, zeigen UC Davis Epidemiologen, dass Rauchen ein führender Grund für Feuer und weltweiten Tod von Feuer darstellt.</t>
+    <h>Heimische Feuer ist eine entscheidende Ursache für Feuertote.</h>
+  </pair>
+  <pair id="25" entailment="ENTAILMENT" task="IR">
+    <t>Wissenschaftliche Beobachter sagen, dass zwischen März und Juni 300.000 Robben getötet sein werden. In Kanada sichert das Fangen von Robben Arbeitsplätze. Gegner empfinden das als bösartig und sagen, dass eine Spezie bedroht wird, die bereits unter der globalen Erwärmung leidet.</t>
+    <h>Jagen bedroht Robben vorm aussterben.</h>
+  </pair>
+  <pair id="26" entailment="ENTAILMENT" task="IR">
+    <t>Beide Seiten haben nicht ganz unrecht. Die deutsche Rechtschreibung braucht keine Generalüberholung: über die Jahrzehnte ist sie schwieriger geworden. Aber die Rform, die von deutschsprachigen Ländern 1996 anerkannt wurde, macht die Regeln nicht leichter, sondern verkompliziert sie in einigen Fällen.</t>
+    <h>Die neue Rechtschreibereform wurde in allen deutschsprachigen Ländern akzeptiert.</h>
+  </pair>
+  <pair id="27" entailment="ENTAILMENT" task="IR">
+    <t>Die britische Bergsteigerin Alison Hargreaves ist die erste Frau, die alleine und ohne Sauerstoffgerät Mount Everest bestiegen hat.</t>
+    <h>Eine Frau hat alleine erfolgreich den Everest bestiegen.</h>
+  </pair>
+  <pair id="28" entailment="ENTAILMENT" task="IR">
+    <t>Busby konterte, indem er The Iconoclast erzählte, dass der Punkt sei, das Material aus Chernobyl, das 1.800 Kilometer von groß Britannien entfernt sei, nach Groß Britannien gebracht wurde und Wales, Schottland und zahlreiche andere Teile des Vereinigten Königreichs verunreinigt hätte. And they might as well have said that it was equally unfeasible for it to travel that distance in the opposite direction to the general flow of the wind, but we have examined computer Models of wind directions over the period of the Gulf War and its quite clear the material from Iraq could have come through the United Kingdom because of the particular types of depressions and anticyclone systems that were there.</t>
+    <h>Das Unglück von Chernobyl hatte Auswirkungen außerhalb der ehemaligen UdSSR.</h>
+  </pair>
+  <pair id="29" entailment="NONENTAILMENT" task="IR">
+    <t>Nachlässigkeit von Unternrhmern ist ein häufiger Grund für Feuer, einschließlich vieler Feuer, die schwere finanzielle Verluste zur Folge haben. Schätzungen zufolge resultieren vielleicht 20-25% aller nicht heimischen Feuer aus "weiterführenden" Arbeiten wie Renovierungen, Reperaturen und Ausbau.</t>
+    <h>Heimische Feuer sind eine entscheidende Ursache für Feuertote.</h>
+  </pair>
+  <pair id="30" entailment="ENTAILMENT" task="IR">
+    <t>Castros erfolgreiche Besuche von Harlem und der Bronx, seine Rede gerichtet an die Generalversammlung der Vereinten Nationen, der Aufmarsch vom 21. Oktober von 3000 Gegenern der U.S. Politik, sowie die darauf folgende Streikpostenkette vor Kubas UN Verteidigungsmission der Revolution - alle Ereignisse erteilten Schläge an die U.S. Regierungsbemühungen Kuba auszugrenzen und zu verleumden.</t>
+    <h>Castro besucht die UN.</h>
+  </pair>
+  <pair id="31" entailment="ENTAILMENT" task="IR">
+    <t>Katastrophale Fluten in Europa bedrohen Leben und haben sowohl menschliche Tragödien als auch schwere wirtschaftliche Verluste zur Folge.</t>
+    <h>Fluten in Europa haben schwere wirtschaftliche Verluste zur Folge.</h>
+  </pair>
+  <pair id="32" entailment="ENTAILMENT" task="IR">
+    <t>China's announcement of a rival Panchen Lama to the boy already recognized by the Dalai Lama are indications that its Communist regime is desperate in using any means possible to strengthen control over Tibet and Tibetan affairs.</t>
+    <h>Dalai Lama and the government of the People's Republic of China are in dispute over Panchen Lama's reincarnation.</h>
+  </pair>
+  <pair id="33" entailment="NONENTAILMENT" task="IR">
+    <t>Chirac benötigte ein neues Mandat von der Wählerschaft für seine Reigierung, oder eine linke Regierung, die auf die Unterstützung der Gewerkschaft und die der Arbeiterklasse zählen konnte, und somit auf weniger Widerstand stoßen würde.</t>
+    <h>Parlamentswahlen führen zur Gründung einer neuen Regierung in Frankreich.</h>
+  </pair>
+  <pair id="34" entailment="ENTAILMENT" task="IR">
+    <t>Der Schauspieler und Direktor Christopher Reeve, der durch seine Lähmung nach einem Reitunfall zur weltweiten Inspiration wurde, starb letzten Sonntag an Herzversagen.</t>
+    <h>Christopher Reeve hatte einen Unfall.</h>
+  </pair>
+  <pair id="35" entailment="NONENTAILMENT" task="IR">
+    <t>Claes streitete kategorisch ab, dass sie jemals von der Existenz eines Agusta Projekts gehört hätten, und erzählte dem NATO Botschafter, nichts von der Agusta Zahlung an die Sozialistische Partei gewusst zu haben.</t>
+    <h>Der NATO Generalsekretär Willy Claes hat abgedankt.</h>
+  </pair>
+  <pair id="36" entailment="ENTAILMENT" task="IR">
+    <t>Claes war von 1992 bis 1994 belgischer Außenminister und von 1994 bis 1995 Generalsekretär der NATO, bevor er aufgrund von Korruptionsvorürfen, die unzlässige Verträge mit Agusta helicopters betreffen und die von ihm gebilligt wurden, während er Wirtschaftsminister war, zum Rücktritt gezwungen wurde. Aus diesem Grund verlor er für zahlreiche Jahre seine Bürgerrechte.</t>
+    <h>NATO Generalsekretär Willy Claes ist zurückgetreten.</h>
+  </pair>
+  <pair id="37" entailment="NONENTAILMENT" task="IR">
+    <t>Der Klimawandel ist mit uns. Vor zehn Jahren war es lediglich eine Vermutung. Nun entfaltet sich die Zukunft vor unseren Augen. Kanadas Eskimos sehen es an verschwindendem arktischem Eis und Dauerfrost.</t>
+    <h>Der Glashauseffekt verändert das globale Klima.</h>
+  </pair>
+  <pair id="38" entailment="ENTAILMENT" task="IR">
+    <t>COLOMBO (Reuters) - Mindestens fünf Menschen wurden getötet und elf verletzt, als eine verdächtige Tamil Tiger Selbstmörderin sich auf einer Polizeidienststelle in der Hauptsstadt Sri Lankas am Mittwoch in die Luft sprengte und damit mehr als zwei Jahre Frieden zerstörte.</t>
+    <h>Bei einem Selbstmordanschlag der Tamil wurden Menschen getötet.</h>
+  </pair>
+  <pair id="39" entailment="NONENTAILMENT" task="IR">
+    <t>Kommandeur Thomas Karremans, der zu der Zeit in Srebrenica die holländischen Truppen betreute, wurde dabei gefilmt, wie er auf einen Toast mit dem mutmaßlichen kriegsverbrecher, dem serbischen General Ratko Mladic, anstoß.</t>
+    <h>Die Fotos aus Holland von Srebrenica sind verschwunden.</h>
+  </pair>
+  <pair id="40" entailment="ENTAILMENT" task="IR">
+    <t>Der Kosmonaut Sergei Avdeyev, der zur Zeit an Bord der Mir space Station ist, ist der Mensch. der sich bisher am längsten im Weltall aufhielt. Sein Aufenthalt wurde auf 681 Tage gezählt.</t>
+    <h>Die Russen halten den Rekord des längsten Aufenthalts im Weltall.</h>
+  </pair>
+  <pair id="41" entailment="NONENTAILMENT" task="IR">
+    <t>Der kubanische Führer Fidel Castro hat einen Brief an den Generalsekretär der Vereinten Nationen Kofi Annan gesendet, in dem er ihm versichert, dass Kuba sich an das Anti-Terror-Abkommen in Folge der terroristischen Anschläge gegen New York und Washington halten wird.</t>
+    <h>Castro besucht die UN.</h>
+  </pair>
+  <pair id="42" entailment="NONENTAILMENT" task="IR">
+    <t>Laut der Christopher Reeve Stiftung ist Dana Reeve, die Witwe des Schauspielers Christopher Reeve, im Alter von 44 Jahren an Lungenkrebs gestorben.</t>
+    <h>Christopher Reeve hatte einen Unfall.</h>
+  </pair>
+  <pair id="43" entailment="NONENTAILMENT" task="IR">
+    <t>David Millar behielt sein gelbes Tour de France Führungsshemd, obwohl er auf die letzten zwei Kilometer der dritten Etappe des Rennens nach Nantes stürzte.</t>
+    <h>Der Gewinner der Tour de France verliert vielleicht die Krone.</h>
+  </pair>
+  <pair id="44" entailment="ENTAILMENT" task="IR">
+    <t>Diana, die Prinzessin von Wales starb am Sonntag den 31. August nach einem Autounfall in Paris. Die Trauer des Volks über den Tod der berühmten Persönlichkeit war groß und fand ihren Höhepunkt bei ihrer Beerdigung am Samstag den 6. September 1997 im Westminster Abbey.</t>
+    <h>Lady Diana starb in Paris.</h>
+  </pair>
+  <pair id="45" entailment="NONENTAILMENT" task="IR">
+    <t>Auf ein Hinweis eines reumütigen Wilderers hin, haben Forscher beim Graben im Ödland von ost- mitte Utah die fossilen Überreste eines "fehlenden Gelenks" eines Dinosauriers ausgegraben.</t>
+    <h>Überreste eines Dinosaur wurden in Asien gefunden.</h>
+  </pair>
+  <pair id="46" entailment="ENTAILMENT" task="IR">
+    <t>Vorfälle vom heimischem Feuer haben entscheidende Auswirkungen auf die Gesundheit der Bevölkerung, da sie für frühe Todesfälle, ernsthafte und oftmals entstellende Verletzungen und lebenslange Behinderungen verantwortlich sind. Verletzungen aufgrund von Feuer ist ein führender Grund für unbeabsichtigte, heimische Verletzungen aller Altersklassen.</t>
+    <h>Heimische Feuer sind ein führender Grund für unbeabsichtigte Verletzungen, die zu Hause passieren.</h>
+  </pair>
+  <pair id="47" entailment="ENTAILMENT" task="IR">
+    <t>Ebola hämorrhagisches Fieber ist eine bösartige Krankheit, die von einem neuen Virus mit noch unbekannter Heilung ausgelöst wird. Als eine neue Epedemie in Zaire im Frühjahr 1995 entdeckt wurde, wurde sie als einstimmig als Bedrohung für den Westen anerkannt. Die Aufmerksamkeit des Volkes war gewaltig.</t>
+    <h>Die Ebola Epidemie bricht in Zaire aus.</h>
+  </pair>
+  <pair id="48" entailment="NONENTAILMENT" task="IR">
+    <t>Die U.S. politischen Debatten haben mit Ekuador kurzen Prozess gemacht. In den letzten Jahren jedoch hat eine bedeutende öffentliche Debatte über den Zusammenschluss der U.S./Colombian Initiative und deren Folgen für Ekuador und dessen Bevölkerung in Ekuador stattgefunden.</t>
+    <h>Peru debattiert mit Ekuador über die Grenzregion.</h>
+  </pair>
+  <pair id="49" entailment="NONENTAILMENT" task="IR">
+    <t>An anderer Stelle gewann Mosambik seine aller erste olympische Goldmedallie, als Maria Mutola den 800 Meter-Lauf der Frauen gewann, während der Sieg der Männer über 10.000 Meter an den äthiopischen Haile Gebrselassie ging.</t>
+    <h>Die Gewinnerin über die 10.000 Meter der Frauen ist aus Mozambique.</h>
+  </pair>
+  <pair id="50" entailment="NONENTAILMENT" task="IR">
+    <t>Die Englische Sprache benutzt seit dem neuenten Jahrhundert ungefähr für ihre Schrift das lateinische Alphabet. (Vor dieser Zeit benutzte man für die Schrift des Altenglischen das anglo-sächsiche Futhorc.) Das Buchstabiersystem bzw. die Rechtschreibung des Englischen ist historisch, nicht phonetisch.</t>
+    <h>Einer Rechtschreibreform wurde in allen deutschsprachigen Ländern zugestimmt.</h>
+  </pair>
+  <pair id="51" entailment="ENTAILMENT" task="IR">
+    <t>Obwohl die Schätzungen weit auseinder gehen, glaubt man, dass bis zu 100 Millionen Kinder in Haushalten, Fabriken, Geschäften, auf Feldern, in Bordellen und auf den Straßen des ländlichen und städtischen Indiens schuften.</t>
+    <h>Kinderarbeit ist in Asien weit verbreitet.</h>
+  </pair>
+  <pair id="52" entailment="NONENTAILMENT" task="IR">
+    <t>Europas wirtschaftliche Umwelt hat sich in den letzten dreißig Jahren deutlich verändert, und die Wirtschaft europäischer Städte hat sich stufenweise der Weltwirtschaft geöffnet. Demzufolge ist die Wettbewerbsfähigkeit der europäischen Wirtschaft nicht nur von Produktionskosten, sondern auch von der leistung der Rente und der Fürsorgeunterstützung, die Sicherheit für die Zukunft versprechen, abhängig.</t>
+    <h>Die in Europa kürzlich eingeführte staatliche Rente macht Schwierigkeiten.</h>
+  </pair>
+  <pair id="53" entailment="NONENTAILMENT" task="IR">
+    <t>Everest Grand Circle Expedition in Nepal und Tibet. Die ersten Bewegungen auf dem Everest: Trekking, Ski fahren, und Bergsteigen. Der erste amerikanische Winter mit Besteigung des Pumori (elev. 23,422'). Verewigt in dem Buch Everest Grand Circle. Ned Gillette, Jan Reynolds, Jim Bridwell, Steve McKinney, Craig Calonica und Rick Barker.</t>
+    <h>Eine Frau besteigt alleine erfolgreich den Everest.</h>
+  </pair>
+  <pair id="54" entailment="ENTAILMENT" task="IR">
+    <t>Jedes Jahr werden in Israel Menschen inhaftiert, die den Militärdienst wegen Gewissensgründen verweigern.</t>
+    <h>Einige Menschen ziehen dem Wehrdienst eine Gefängnisstrafe vor.</h>
+  </pair>
+  <pair id="55" entailment="NONENTAILMENT" task="IR">
+    <t>Jedes Jahr verletzt sich ein Viertel aller Kinder so schlimm, sodass sie medizinische Hilfe in Anspruch nehemen müssen, der Schule fern bleiben müssen und/oder im Bett bleiben müssen.</t>
+    <h>Feuerwerke können schlimme Verletzungen zur Folge haben.</h>
+  </pair>
+  <pair id="56" entailment="NONENTAILMENT" task="IR">
+    <t>Ewald, der nun 74 Jahre alt ist, war von 1961 bis 1988 Vorsitzender des ostdeutschen Sportbunds. Er wurde schuldig befunden 142 ostdeutsche Sportlerinnen, hauptsächlich Schwimmerinen und Athletinnen, verbotene, leistungssteigernde Medikamente verabreicht zu haben.</t>
+    <h>Zahlreiche Sportlerinnen wurden des Dopings beschuldigt.</h>
+  </pair>
+  <pair id="57" entailment="NONENTAILMENT" task="IR">
+    <t>Nachgemachte prehistorische Wandmalerei von Steinzeitmenschen mit Einkaufswagen hingen an den Wänden des britischen Museums.</t>
+    <h>Prehistorische Kunst wurde in Südafrika entdeckt.</h>
+  </pair>
+  <pair id="58" entailment="ENTAILMENT" task="IR">
+    <t>Fiona North, die ophthalmische Beraterin des SHSSB fügte hinzu: Augenverletzungen die durch Feuerwerkskörper entstanden sind, sind sehr gefährlich und können zur Blindheit führen. Ich würde die, die effiziente Feuerwerkskörper koordinieren, zu angemessenem Augenschutz drängen.</t>
+    <h>Feuerwerkskörper können ernsthafte Verletzungen zur Folge haben.</h>
+  </pair>
+  <pair id="59" entailment="NONENTAILMENT" task="IR">
+    <t>First Canadian and then Dutch peacekeepers were deployed in Srebrenica. Seven hundred and fifty lightly armed UN peace-keepers were responsible for disarming Srebrenica's Muslim defenders and "deterring" Bosnian Serb attacks against the safe area. Two years later, a Serb flag flew where the UN's once did and 7,079 Muslim men were missing.</t>
+    <h>Dutch photos of Srebrenica have disappeared.</h>
+  </pair>
+  <pair id="60" entailment="NONENTAILMENT" task="IR">
+    <t>Fluten stellen Europas am weitesten verbreitete Katastrophe dar. In den letzten Jahrzehnten sind große Fluten fast überall auf unserem Kontinent vorgekommen.</t>
+    <h>Fluten in Europa haben schwere wirtschaftliche Verluste zu Foge.</h>
+  </pair>
+  <pair id="61" entailment="ENTAILMENT" task="IR">
+    <t>Zum Beispiel ernähren die Felder von westlichen Bauern die Vereinigten Staaten und viele andere Teile der Erde, und Indiens Bewässerungssysteme haben dem Land seit 1974 eine unabhängige Lebensmittelproduktion ermöglicht. Zudem haben Dämme in vielen Teilen der Erde dazu beigetragen, lebensbedrohliche Probleme wie Armut resultierend aus wirtschaftlichen Entwicklungsproblemen, Hungersnot, die aus Dürre resultiert, Zerstörung nach Fluten und anhaltende Krankheiten als Folge von fehlerhaften Trinkwasseranlagen zu beheben.</t>
+    <h>Das Bauen von Dämmen verhindert lebensbedrohliche Situationen.</h>
+  </pair>
+  <pair id="62" entailment="ENTAILMENT" task="IR">
+    <t>Frauen, die im 22.000 verdienen, beträgt das errechnete Gehalt nach sechs Monaten Mutterschutzurlaub lediglich 5.300 in dem UK und 5.850 in Irland. Die Anspruchsberechtigung wäre in Deutschland mit 5.900 verglichen mit der in Frankreich, Spanien und den Niederlanden, wo sie 6.750 beträgt, verhätnismäßig gering. Am anderen Ende der Skala beträgt die Bezahlung nach sechs Monaten Beurlaubung in Italien 9.150, während sie in Dänemark und Norwegen 11.000 beträgt.</t>
+    <h>Der Mutterschutzurlaub variert in Europa.</h>
+  </pair>
+  <pair id="63" entailment="ENTAILMENT" task="IR">
+    <t>Ausländische Autohersteller sind in Russland gefragt. Hersteller wie Daewoo, Ford, Renault, und einige mehr, können nicht schnell genug produzieren.</t>
+    <h>Europäische Autos verkaufen sich in Russland</h>
+  </pair>
+  <pair id="64" entailment="ENTAILMENT" task="IR">
+    <t>Frankreich ist das einzige Land mit zwei reinen Parlamentswahlen. Parlamentswahlen in Frankreich, bei denen eine neue parlamentarische Mehrheit erzeugt wird, bilden eine neue Regierung.</t>
+    <h>Parlamentarische Wahlen können in Frankreich zu einer neuen Regierung führen.</h>
+  </pair>
+  <pair id="65" entailment="NONENTAILMENT" task="IR">
+    <t>Fujimori charged that on January 26, 1995, Ecuador fired the first shot, an allegation denied by Ecuador's leader, Sixto Duran-Ballen. Predictably, each side blamed the other for starting the 1995 conflict, just as each pointed the finger of guilt to the other for provoking the border war of 1941, when Peru took most of the 120,000 square miles in contention between the two countries.</t>
+    <h>President Fujimori 1995 wiedergewählt.</h>
+  </pair>
+  <pair id="66" entailment="NONENTAILMENT" task="IR">
+    <t>Laut eines neuen Berichts werden Klebstoffschnüffeln und der Mißbrauch von Lösungsmittel im Kampf gegen Drogen berücksichtigt.</t>
+    <h>Klebstoffschnüffeln ist bei Jugendlichen alltäglich.</h>
+  </pair>
+  <pair id="67" entailment="NONENTAILMENT" task="IR">
+    <t>Schon zu Zeiten des alten Griechenlands stellte das Inhalieren eine hoch effektive Methode zur Drogenaufnahme dar. Die ausgedehnte kapillare Oberfläche der Lungen erlaubt eine rapide Aufnahme, mit einem schnellen Rausch, dessen Intensität angeblich gleich nach der einer Spritze kommt.</t>
+    <h>Klebstoffschnüffeln ist bei Jugendlichen alltäglich.</h>
+  </pair>
+  <pair id="68" entailment="ENTAILMENT" task="IR">
+    <t>Griechenland beanstandet, dass die benachbarte Regierung von Skopje den Namen Mazedonien verwendet. Griechenland behauptet, dass dies mit Forderungen an eine griechische Provinz mit selben Namen einhergehe.</t>
+    <h>Griechenland und Mazedonien streiten sich über einen Namen.</h>
+  </pair>
+  <pair id="69" entailment="NONENTAILMENT" task="IR">
+    <t>Sein (oder ihr) Mandat ist immer dazu da eine Koalition zu bilden, die auf einer Mehrheit im holländischen Parlament und einer politischen Einigung basiert ('regeerakkoord'). Während einer Formation tauschen sich die Parteien aus und trennen sich von einigen Zielen, um andere zu erreichen.</t>
+    <h>Drei Parteien bilden eine holländische Koalitionsregierung.</h>
+  </pair>
+  <pair id="70" entailment="NONENTAILMENT" task="IR">
+    <t>Das von seiner Gruppe entwickelte Computerprogramm, das einen Schwarm von Mini-Robotern mit Gruppenintelligenz ausstattet, damit diese schnell und genau Ansteckungsherde erkennen können, kann auch von einer Gruppe Menschen benutzt werden, die einen Minicomputer, ein globales Positionsbestimmungssystem und eine schlichte Radioausstattung mit dem Zweck einen im Schnee begrabenen Skifahrer zu finden, mit sich tragen.</t>
+    <h>Roboter werden zum Bergen von Lawienenopfern benutzt.</h>
+  </pair>
+  <pair id="71" entailment="NONENTAILMENT" task="IR">
+    <t>Hubble hilft Astronomen das Alter des Universums genau zu errechnen, indem er die exakten Entfernungen zu den Galaxien bestimmt. Dies ist eine wichtige Vorraussetzung für das Errechnen des Alters. Hubble misst die Entfernung zu benachbarten Galaxien, indem er genaue "milepost markers" findet, die eine spezielle Klasse eines pulsierenden Sterns darstellen, der Cepheid variables heißt. Diese werden wiederum benutzt, um weitere abgelegene milepost markers zu vermessen.</t>
+    <h>Hubble entdeckt schwarze Löcher.</h>
+  </pair>
+  <pair id="72" entailment="NONENTAILMENT" task="IR">
+    <t>Wenn sie ein dringendes Problem mit Eisdämmen haben, sollten sie den Schnee, der sich auf dem Teil des Daches direkt über dem Eisdamm befindet, entfernen. Somit wird die Menge des Wassers, die sich hinter dem Damm ansammeln kann, reduziert.</t>
+    <h>Das Bauen von Dämmen verhindert lebensbedrohliche Situationen.</h>
+  </pair>
+  <pair id="73" entailment="NONENTAILMENT" task="IR">
+    <t>Im Jahr 1979 taucheten die ersten Fälle von AIDS in New York auf. Fälle dieser Krankheit, die jetzt tödlicher als die Beuelnpest eingestuft wird und die vor 1979 noch nie gesehen wurden, tauchten fortwährend in Kalifornien und New York, bei fast ausschließlich homosexuellen Männern, auf.</t>
+    <h>AIDS verbreitet sich in Afrika.</h>
+  </pair>
+  <pair id="74" entailment="NONENTAILMENT" task="IR">
+    <t>Im Jahr 1999 wurden Victor Conte von einem ihm bekannten Chemiker zwei Ampullen einer neuen Droge zugesendet und er begann sie an einige seiner Klienten zu verteilen. Conte sagt, dass Marion Jones darunter war, eine von Amerikas vorbildlichen Sportlerinnen, die an den Wettkämpfen der Olympischen Spiele 2000 in Sydney teilnehmen wollte.</t>
+    <h>Sportlerinnen wurden des Dopings beschuldigt.</h>
+  </pair>
+  <pair id="75" entailment="NONENTAILMENT" task="IR">
+    <t>In Bosnia, diplomatic determination combined with military muscle to create an opportunity to secure a peace rather than permit instability to undermine this fragile region and U.S. interests.</t>
+    <h>The Dayton Peace Treaty was formulated to end the war in Bosnia.</h>
+  </pair>
+  <pair id="76" entailment="NONENTAILMENT" task="IR">
+    <t>Die Briten stecken ihre Energie in die Gartenarbeit und das Reiten. Die Holländer bewegen sich mit dem Fahrrad fort, um zu zeigen, zu welchem Volk sie gehören. Mit Blick auf nationale Stereotypen, hat die italienische Königsfamilie dagegen für 60 Jahre im Exil gelebt, schnelle Autos und schäne Frauen bevorzugt.</t>
+    <h>Die italienische Familie kehrt nach Hause zurück.</h>
+  </pair>
+  <pair id="77" entailment="ENTAILMENT" task="IR">
+    <t>Im Februar 1995 hat ein Mann im Alleingang die Bank bankrott gemacht, die die Napoleonischen Kriege finanziert hat. Die 1762 gegründete Barings Bank war Groß Britanniens älteste Handelsbank und Königin Elizabeths private Bank.</t>
+    <h>Barings war Groß Britanniens älteste Handelsbank.</h>
+  </pair>
+  <pair id="78" entailment="ENTAILMENT" task="IR">
+    <t>Im November 1990 hat der President angekündigt, dass sich 1991 oppositionelle politische Parteien gründen dürfen. Es entstanden zahlreiche neue Parteien, wie die Demokratisch Republikanische Bewegung (MDR), die Liberale Partei (LP), die Demokratische und Sozialistische Partei (PSD), und die Koalition der Verteidigung der Republik (CDR).</t>
+    <h>Zahlreiche neue Parteien wurden gegründet.</h>
+  </pair>
+  <pair id="79" entailment="NONENTAILMENT" task="IR">
+    <t>In November 2005, the EU announced a partial suspension of the PCA with all subcommittees and the Cooperation Committee suspended indefinitely. An arms embargo has also put in place, whilst a year-long visa ban has been imposed upon 12 Uzbek officials believed to have played a part in the forcible suppression of the Andijan demonstrations.</t>
+    <h>The EU partially refuses commission candidates.</h>
+  </pair>
+  <pair id="80" entailment="NONENTAILMENT" task="IR">
+    <t>In der Kunstgeschichte stellt prehistorische Kunst die gesamte Kunst, die in vorgeschichtlichen Kulturen, die irgendwo in der letzten geologischen Geschichte beginnen, produziert wurden, dar.</t>
+    <h>Prehistorische Kunst wurde in Südafrika entdeckt.</h>
+  </pair>
+  <pair id="81" entailment="NONENTAILMENT" task="IR">
+    <t>Insofern gleichen sich die geforderten Reformen in Europa: stärkere Anreize im Rentensystem, um die Pensionierungen hinauszuzögern, Regeln, die die schrittweise Pensionierung erleichtern, Anreize für Arbeiter für ihre Pension zu sparen, und öffentliche Informationsmaßnahmen, um das Wissen um die gültigen Optionen zu verbessern.</t>
+    <h>Das national Rentensystem, dass zu Zeit in Europa adaptiert wurde, befindet sich in Schweirigkeiten.</h>
+  </pair>
+  <pair id="82" entailment="NONENTAILMENT" task="IR">
+    <t>Dies hat zudem die Frage nach der Qualität der finanziellen Regulierung in Singapur aufgeworfen, wo Verluste von Derivaten, für die der ehemalige Wertpapierhändler Nick Leeson verantwortlich war, 1995 zu einem Zusammenbruch von Barings Plc. führten.</t>
+    <h>Nick Leeson was arrested for collapse of Barings Bank PLC.</h>
+  </pair>
+  <pair id="83" entailment="NONENTAILMENT" task="IR">
+    <t>It is estimated that the disaster resulting from the deliberate crash of a Jumbo-Jet on a nuclear power station would be a multiple of the Chernobyl accident in the worst case by a factor of 60.</t>
+    <h>The Chernobyl disaster had repercussions outside the ex-USSR.</h>
+  </pair>
+  <pair id="84" entailment="ENTAILMENT" task="IR">
+    <t>It was difficult to assess the objectives behind increased militia activity in East Timor, but its intent seemed to be to continue a pattern of violence against civilians and the United Nations Transitional Administration in East Timor (UNTAET) in order to undermine the transition process, Hedi Annabi, Assistant Secretary-General for Peacekeeping Operations, told the Security Council this morning.</t>
+    <h>Guerrillas increase activity in East Timor.</h>
+  </pair>
+  <pair id="85" entailment="ENTAILMENT" task="IR">
+    <t>Der italienische Regisseur Federico Fellini war bei seiner ersten Nominierung älter als seine amerikanischen Mitstreiter und wurde, ebenso wie andere Ausländer, nicht für seine früheren Meisterwerke "La Strada" und "Nights of Cabiria" nominiert, obwohl beide Filme jeweils den Best Foreign-Language Picture Preis in 1956 und 1957 gewonnen haben. Fellini erhielt erst viel später, im Jahr 1993 einen ehrenamtlichen Oscar, der vielmehr eine entschädigende Geste darstellte.</t>
+    <h>Ein italienischer Regisseur wurde mit einem ehrenamtlichen Oscar ausgezeichnet.</h>
+  </pair>
+  <pair id="86" entailment="ENTAILMENT" task="IR">
+    <t>Der italienische Filmemacher Fellini wurde mit einem ehrenamtlichen Oscar für sein Lebenswerk ausgezeichnet. Er verstarb am 31. Oktober 1993.</t>
+    <h>Einem italienischen Regisseur wird ein ehrenamtlicher Oscar verliehen.</h>
+  </pair>
+  <pair id="87" entailment="ENTAILMENT" task="IR">
+    <t>Italiens höchstes Gericht hat ein Gerichtsurteil aufrecht erhalten, das den früherern Premierminister Giulio Andreotti davon frei spricht, mit der Mafia kooperiert zu haben.</t>
+    <h>Andreotti wird beschuldigt, mit der Mafia zu kooperieren.</h>
+  </pair>
+  <pair id="88" entailment="ENTAILMENT" task="IR">
+    <t>Chefsyndikus der USA Track and Field Jill Pilgrim sprach das Problem des Frauensports bei einer Debatte der Konferenz von Sportanwälten an. Pilgrim sagt, dass sich das Gesetz, dass besagt, wer im rechtlichen Sinne als Frau definiert wird, ändert, da Geschlechtsumwandlungen zunehmen.</t>
+    <h>Geschlechtsumwandlungen nehmen zu.</h>
+  </pair>
+  <pair id="89" entailment="ENTAILMENT" task="IR">
+    <t>Kieslowski sagte später einmal, dass er sich aufgrund von zwei Erfahrungen von Dokumentarverfilmungen abwendete: zum einen wegen der Zensuren in Workers '71, die ihn im wahrsten Sinne des Wortes an der Bedeutung der Wahrheit unter einem autoritären Regime zweifeln ließen und zum anderen wegen eines Vorfalls während der Verfilmung von Station (1981), bei der Teile seines Filmmaterials fast als kriminelles Beweismaterial dienten. Er beschloss das Fiktion nicht nur mehr künstlerischen Freiraum bot, sondern auch das Alltagsleben realistischer darstellen konnte.</t>
+    <h>Kieslowski ist ein Regisseur.</h>
+  </pair>
+  <pair id="90" entailment="ENTAILMENT" task="IR">
+    <t>Letzte Woche zersägte sich die holländischen rechtsstehenden Koalitionsregierung durch ihren Absturz, die sich aus den Christlichen-Demokraten (CDA), geführt von Premierminister Peter Balkenende, der rechtsstehende Liberale Partei (VVD) und der so genannten Linken-Liberalen D66 zusammen setzte.</t>
+    <h>Drei Parteien bilden eine holländische Koalitionsregierung.</h>
+  </pair>
+  <pair id="91" entailment="NONENTAILMENT" task="IR">
+    <t>LISSABON, 22. Januar (Xinhuanet) -- Der ehemalige Premierminister Anibal Cavaco Silva hat am Sonntag Portugals Presidentschaftswahl gewonnen.</t>
+    <h>Der neue portugisische Primeminister wird gewählt.</h>
+  </pair>
+  <pair id="92" entailment="NONENTAILMENT" task="IR">
+    <t>Macedonia seems confident it can weather the storm, but some fear Athens may soon take things up a notch.</t>
+    <h>Greece and Macedonia are in dispute over name.</h>
+  </pair>
+  <pair id="93" entailment="ENTAILMENT" task="IR">
+    <t>Nach dem letzten Stand des NASA Hubble Space Telescope existieren mittelgroße schwarze Löcher tatsächlich, aber die Wissenschaftler mussten an unvermuteten Orten suchen um diese zu finden. Die zuerst unerkannten schwarzen Löcher stellen einen wichtigen Hinweis dar. Sie geben Aufschluss über die Art und Weise, wie schwarze Löcher wachsen.</t>
+    <h>Hubble endeckt schwarze Löcher.</h>
+  </pair>
+  <pair id="94" entailment="ENTAILMENT" task="IR">
+    <t>Die Britische Ärztekammer warnt, dass psychische Störungen bei Kindern und Erwachsenen auf dem Vormarsch sind und das die Dienste zu schlecht ausgestattet sind, um diese in den Griff zu bekommen.</t>
+    <h>Immer mehr Jugendliche leiden an psychischen Störungen.</h>
+  </pair>
+  <pair id="95" entailment="ENTAILMENT" task="IR">
+    <t>Die meisten Menschen wissen von der Idee Bernhardiner oder andere Hunde für Rettungs- und Bergungsmaßnahmen einzusetzen. Des Weiteren können Roboter bei Such- und Rettungsaktionen eingesetzt werden.</t>
+    <h>Roboter werden eingesetzt um verschwundene Opfer zu finden.</h>
+  </pair>
+  <pair id="96" entailment="NONENTAILMENT" task="IR">
+    <t>Maria Mutola aus Mozambik und Alex Averbukh aus Israel zeigten dieses Jahr die besten Leistungen beim 800 Meter Lauf der Frauen und beim Stabhochsprung der Herren am Samstag beim Super Grand Prix in Madrid.</t>
+    <h>Die Gewinnerin über die zehntausend Meter der Frauen stammt aus Mosambik.</h>
+  </pair>
+  <pair id="97" entailment="NONENTAILMENT" task="IR">
+    <t>Mr Gregory's conclusion in 1994 was that the ceremony, transferred to the more convenient nearest Sunday, was dying out. However, that year the Conservative government proclaimed "festivities" to celebrate the 50th anniversary of the Normandy landings.</t>
+    <h>50th Anniversary of Normandy Landings lasts a year.</h>
+  </pair>
+  <pair id="98" entailment="ENTAILMENT" task="IR">
+    <t>Das Hubble Space Telescope und das Chandra X-ray Observatory, die zwei großen Sternwarten der NASA, haben unabhängig von einander eventuelle Beweise für die Existenz eines Ereignishorizonts, das Hauptmerkmal eines schwarzen Lochs, bereitgestellt.</t>
+    <h>Hubble entdeckt schwarze Löcher.</h>
+  </pair>
+  <pair id="99" entailment="ENTAILMENT" task="IR">
+    <t>Dennoch stellen steigende Lebenserwartungen und fallende Geburtenraten entscheidende Faktoren dar, die viele Rentensysteme innerhalb Europas gegenwärtig unhaltbar machen. Einige Mitgliedsstaaten haben bereits große Reformen vorgestellt (z.B. Deutschland, Frankreich und Österreich) und andere halten ihrem bereits existierenden Systemen fest.</t>
+    <h>Europas derzeitige Rentensysteme befinden sich in Schwierigkeiten.</h>
+  </pair>
+  <pair id="100" entailment="ENTAILMENT" task="IR">
+    <t>Dennoch war der internationale Ruf einiger polnischer Künstler, insbesondere der des Filmemachers Krzysztof Kieslowski, nie besser. Um es mit einem groben wirtschaftlichen Beurteilungsmaßstab zu verdeutlichen, bildet die DVD-Box seiner Decalogue Serie (zehn einstündige Dramen, die teilweise auf Ten Commandments basieren, die 1988 im polnischen Fernsehen liefen) zur Zeit die Nummer 3.700 auf Amazon.com's Verkaufsliste (gleich der The Alfred Hitchcock Signature Collection).</t>
+    <h>Kieslowski ist ein Film- und Fernsehregisseur.</h>
+  </pair>
+  <pair id="101" entailment="NONENTAILMENT" task="IR">
+    <t>New York schmückt sich mit der größten Anzahl an Milliadären. Vierzig sind im Big Apple angesiedelt. Die jüngste Milliadärin ist die 22-jährige Hind Hariri, die Tochter des ermordeten früheren libanesischen Primierministers Rafik Hariri.</t>
+    <h>Die Zahl der Milliadäre steigt.</h>
+  </pair>
+  <pair id="102" entailment="NONENTAILMENT" task="IR">
+    <t>Nächstes Jahr feiert der Tag der Invasion der Normandie seinen 50. Geburtstag. Ein Ereignis, das ohne die Liberty Schiffe nicht möglich wäre. Freiwillige hoffen genügend Geld sammeln zu können, um die O'Brien für die Feier des D-Day nach Frankreich zu segeln.</t>
+    <h>Der 50. Geburtstag der Landung in der Normandie dauert ein Jahr.</h>
+  </pair>
+  <pair id="103" entailment="NONENTAILMENT" task="IR">
+    <t>Nicholas Burns äußert in einem Exklusivinterview für Pristinas "Utrinski Vesnik", dass es von Athen schmachvoll wäre, wenn es auf Mazedoniens Antrag der Europäischen Union und NATO beizutreten, mit einem Veto reagieren würde.</t>
+    <h>Griechenland und Mazedonien streiten sich über einen Namen.</h>
+  </pair>
+  <pair id="104" entailment="ENTAILMENT" task="IR">
+    <t>Nick Leeson wurde für den Betrug an der Barings Bank, der zum Kurssturz dieser im Jahr 1995 führte, inhaftiert. Er war für die Verluste in Höhe von 850 Millionen an der fernöstlichen Börse verantwortlich.</t>
+    <h>Nick Leeson wurde wegen des Kurssturzes der Barings Bank PLC inhaftiert.</h>
+  </pair>
+  <pair id="105" entailment="NONENTAILMENT" task="IR">
+    <t>Streik von Northwest: Was bedeutet es für die Reisenden, wenn die Flugbegleiter von Northwest am 15. in Streik treten? Ich habe einen Flug für den 24. gebucht. Wird uns NW auf andere Fluggesellschaften umbuchen?</t>
+    <h>Italienische Flugbegleiter treten in Streik.</h>
+  </pair>
+  <pair id="106" entailment="ENTAILMENT" task="IR">
+    <t>Oh Eun-sun war die erste koreanische Frau, die den Mount Everest im Alleingang bestiegen hat. Trotz der Strapazen, die sie aushalten musste, sagte sie lediglich, dass sie Glück hatte. Sie erinnert sich nun an die Tage zurück, die sie auf diesem Berg verbrachte.</t>
+    <h>Eine Frau besteigt erfolgreich im Alleingang den Everest.</h>
+  </pair>
+  <pair id="107" entailment="ENTAILMENT" task="IR">
+    <t>Am 24. März 1992 kam es bei dem Kraftwerksblock Nummer 3 des Leningrader Atomkraftwerks in Sosnovyi Bor zu einer Reaktorenschnellabschaltung. Die Anlage hatte eine undichte Stelle, wodurch insgesamt 3000 Curies in die Atmosphäre ausgestoßen wurden.</t>
+    <h>Im Atomkraftwerk von Sosnovyi Bor kam es zu einer Reaktorenschnellabschaltung.</h>
+  </pair>
+  <pair id="108" entailment="ENTAILMENT" task="IR">
+    <t>Am 29. Juni brach die holländische rechtsstehende Koalitionsregierung zusammen. Sie setzte sich aus den christlichen Demokraten (CDA), die von dem Premierminister Jan Peter Balkenende geleitet wurde, der rechtsstehenden liberalen Partei (VVD) und der so genannten 'linken liberalen' D66 zusammen.</t>
+    <h>Drei Parteien bilden eine holländische Koalitionsregierung.</h>
+  </pair>
+  <pair id="109" entailment="NONENTAILMENT" task="IR">
+    <t>Am 1. Februar 1990 legt Alexander Serebrov während eines Aufenthalts im All einen fliegenden Versuchssessel an, der mit Kvant 2 an der Mir angebracht wurde. Im Gegensatz zu U.S. Astronauten, die ungebundene Flüge mit ähnlichen Geräten geflogen sind, bleibt der sowjetische Kosmonaut durch einen Sicherheitsgurt mit der Raumstation verbunden, da es keine Raumfähre gibt, die ihn im Notfall anziehen könnte.</t>
+    <h>Die US Raumfähre Atlantis dockt an die Mir Raumstation an.</h>
+  </pair>
+  <pair id="110" entailment="ENTAILMENT" task="IR">
+    <t>Am 12. Juli hat der portugiesische President Jorge Sampaio Pedro Santana Lopes gefragt, ob er mit ihm eine Regierung bilden will. Die neue Regierung, die am 17. Juli vereidigt wird, besteht aus António Monteiro als Außenminister, Daniel Sanches als Innenminister, und António Bago Flix als Finanzminister. Paulo Portas bleibt Verteidigungsminister.</t>
+    <h>Ein neuer portugiesischer Premierminister wird gewählt.</h>
+  </pair>
+  <pair id="111" entailment="ENTAILMENT" task="IR">
+    <t>Wie dieses Foto zeigt, schrieb die Raumfähre Atlantis am 29. Juni 1995 Geschichte, als sie an die russische Raumstation Mir dockte.</t>
+    <h>US Raumfähre Atlantis dockt an die Raumstation Mir.</h>
+  </pair>
+  <pair id="112" entailment="NONENTAILMENT" task="IR">
+    <t>Der Regisseur Franco Zeffirelli, der einen Oscar gewann, erhielt die ehrenamtliche Ritterwürde für "wertvolle Dienste für britische darstellende Künste".</t>
+    <h>Italienischer Regisseur erhält einen ehrenamtlichen Oscar.</h>
+  </pair>
+  <pair id="113" entailment="ENTAILMENT" task="IR">
+    <t>Es dauerte nur einige Tage bis die scheinbar mächtige Bank Konkurs ging. Barings war Großbritanniens älteste Handelsbank. Sie finanzierte die Napoleonischen Kriege, den Louisiana Kauf und den Erie Kanal. Barings war die Bank der Queen.</t>
+    <h>Barings war Großbritanniens älteste Handelsbank.</h>
+  </pair>
+  <pair id="114" entailment="NONENTAILMENT" task="IR">
+    <t>Menschen die taub sind oder unter Hörschwäche leiden, die blind sind oder eine Sehschwäche haben und die mit Bewegungseinträchtigungen müssen sich im Notfall gegebenenfalls besonderen Herausforderungen stellen. Ihre Fähigkeit ein Feuer wahrzunehmen oder dessen Folgen zu entkommen, ist durch ihre Behinderungen beeinträchtigt. Das bedeutet, das Menschen mit dementsprechenden Einschränkungen, gefährdet sind durch ein Feuer zu sterben oder verletzt zu werden.</t>
+    <h>Taube Menschen stoßen in der Gesellschaft auf Probleme.</h>
+  </pair>
+  <pair id="115" entailment="ENTAILMENT" task="IR">
+    <t>Political parties in PNG lack ideological conviction and rely almost exclusively on patronage politics, personalism, and regional bases. Several parties have emerged in Papua New Guinean politics. In the House of Assembly elected in 1973, the Pangu Pati, headed by Michael Somare, formed a coalition government with the People's Progress Party, and Somare became prime minister.</t>
+    <h>Several new political parties emerged.</h>
+  </pair>
+  <pair id="116" entailment="ENTAILMENT" task="IR">
+    <t>President Chirac wurde ermahnt, dass seine Wiederaufnahme von Nukleartests zu einem internationalen Boycott von französischen Produkten führen würde.</t>
+    <h>Internationaler Druck als Mittel gegen französiche Nukleartests.</h>
+  </pair>
+  <pair id="117" entailment="ENTAILMENT" task="IR">
+    <t>Präsident Fujimori wurde 1990 zum ersten Mal gewählt, und 1995 unter neuen Bedingungen wiedergewählt.</t>
+    <h>Präsident Fujimori 1995 wiedergewählt.</h>
+  </pair>
+  <pair id="118" entailment="ENTAILMENT" task="IR">
+    <t>Präsident Vladimir Putin schlug Montagor um die Mörder von Anna Politkovskaya zur Strecke zu bringen, während ihre Kollegen in Novaya Gazeta geloben ihre Arbeit trotz der Gefahren fortzusetzen.</t>
+    <h>Anna Politkovskaya wurde ermordet.</h>
+  </pair>
+  <pair id="119" entailment="NONENTAILMENT" task="IR">
+    <t>Premierminister Jos Manuel Duro Barroso dankt ab. Er wird im Verlauf dieses Jahres die Präsidentschaft der Europäischen Kommission annehmen (das Europäische Parlament lässt ihn am 22. Juli antreten).</t>
+    <h>Der neue portugiesische Premierminister wird gewählt.</h>
+  </pair>
+  <pair id="120" entailment="NONENTAILMENT" task="IR">
+    <t>Tollwut ist eine Viruserkrankung, die hauptsächlich durch Bisse übertragen wird. Die Vereinigten Staaten verzeichenen jedes Jahr 7.000 bis 8.000 tollwütige Tiere. Bei 90 Prozent dieser Fälle handelt es sich um wilde Tiere.</t>
+    <h>Tollwut ist für Menschen tödlich.</h>
+  </pair>
+  <pair id="121" entailment="ENTAILMENT" task="IR">
+    <t>Der Virus von Tollwut greift das zentrale Nervensystem an, was Encephalopathie und sofortigen Tod zur Folge hat. Die frühen Symptome von Tollwut bei Menschen sind unspezifisch, da sie aus Fieber, Kopfschmerzen und allgemeinem Unwohlsein bestehen.</t>
+    <h>Tollwut ist für Menschen tödlich.</h>
+  </pair>
+  <pair id="122" entailment="NONENTAILMENT" task="IR">
+    <t>Forscher des deutschen archäologischen Instituts haben bei einer Ausgrabung in der Mongolai eine etwa 2500 Jahre alte Mumie im Permafrost entdeckt.</t>
+    <h>Die Altai-Eis-Jungfrau sorgt für Kontroverse.</h>
+  </pair>
+  <pair id="123" entailment="NONENTAILMENT" task="IR">
+    <t>Ronaldo Luiz Nazario da Silva ist definitiv einer der besten Stürmer in der Geschichte des Weltfußball. Er ist durch seine schnellen Lauf und Dribble Fähigkeiten in der Lage, es mit einem ganzen Team aufzunehmen. Er wurde drei Mal von der FIFA zum Spieler des Jahres gewählt und er hat bereits zum zweiten Mal den FIFA Weltmeisterpokal gewonnen.</t>
+    <h>Die FIFA wählt den Fußballer des Jahres 1994 aus.</h>
+  </pair>
+  <pair id="124" entailment="ENTAILMENT" task="IR">
+    <t>Russland besticht nicht durch seine Autoindustrie, aber steht in anderen Bereichen an der Spitze. Der Reichtum des Lands an Öl, Erdgas und Metallen zusätzlich zu den Stromeinnahmen für die Regierung, führt zur Bildung einer neuen Mittelschicht, die sich nach europäischen, japanischen und amerikanischen Autos sehnt.</t>
+    <h>Europäische Autos verkaufen sich in Russland.</h>
+  </pair>
+  <pair id="125" entailment="ENTAILMENT" task="IR">
+    <t>Der russische Kosmonaut Valery Polyakov hält den Rekord des längsten Weltraumaufenthalts von unglaublichen 438 Tagen in den Jahren 1994 bis 1995.</t>
+    <h>Die Russen halten den Rekord des längsten Weltraumaufenthalts.</h>
+  </pair>
+  <pair id="126" entailment="NONENTAILMENT" task="IR">
+    <t>Das Jagen von Robben ist seit tausenden von Jahren eine norwegische Tradition, aber die jährliche Quote von 1200 getöteten Tieren ist kürzlich um die Hälfte zurück gegangen.</t>
+    <h>Robbenjagen gefährdet die Tierart.</h>
+  </pair>
+  <pair id="127" entailment="NONENTAILMENT" task="IR">
+    <t>Generalsekretär Kofi Annan und Nane Annan werden am 10. April vom Präsident Fidel Castro bei ihrer Ankunft am Flughafen Jose Marti in Havanna in Empfang genommen.</t>
+    <h>Castro besucht die UN.</h>
+  </pair>
+  <pair id="128" entailment="NONENTAILMENT" task="IR">
+    <t>26. September - Das Gerichtsverfahren gegen den ehemaligen italienischen Premierminister Giulio Andreotti, der der Zusammenarbeit mit der Mafia bezichtigt wird, beginnt.</t>
+    <h>Andreotti arbeitet mit der Mafia zusammen.</h>
+  </pair>
+  <pair id="129" entailment="ENTAILMENT" task="IR">
+    <t>26. September - Das Gerichtsverfahren gegen den ehemaligen italienischen Premierminister Giulio Andreotti, der der Zusammenarbeit mit der Mafia bezichtigt wird, beginnt.</t>
+    <h>Andreotti wird der Zusammenarbeit mit der Mafia bezichtigt.</h>
+  </pair>
+  <pair id="130" entailment="NONENTAILMENT" task="IR">
+    <t>Sida fasst keine weiteren Entschlüsse bezüglich der Unterstützung der Projekte für die baltischen Staaten.</t>
+    <h>Baltische Länder werden Mitglied der EU.</h>
+  </pair>
+  <pair id="131" entailment="NONENTAILMENT" task="IR">
+    <t>Bezüglich der päpstlichen Besuchs fügte Castro hinzu, dass die Regierung zustimmte die Hälfte ihrer Transportmittel zur Verfügung zu stellen, damit die Menschen die Messen, die der Papst in den Städten Havanna, Santa Clara, Camaguey und Santiago de Cuba hält, teilnehmen können. Der kubanische Kirchenvorstand hatte befürchtet, dass es an Transportmitteln mangeln würde.</t>
+    <h>Die päpstlichen Besuche werden von politischen Bedenken überschattet.</h>
+  </pair>
+  <pair id="132" entailment="ENTAILMENT" task="IR">
+    <t>Stony Brook, New York (1/10/02)- Die Entdeckung von altsteinzeitlicher Kunst in einer Höhle in Südafrika bewegt Forscher dazu eine eine ältere und weniger europäisch zentrierte Sicht der Entstehung von so genanntem 'modernem Verhalten' in Betracht zu ziehen.</t>
+    <h>Fund von altsteinzeitlicher Kunst in Südafrika.</h>
+  </pair>
+  <pair id="133" entailment="NONENTAILMENT" task="IR">
+    <t>Im Rennen um die Fifa Auszeichnung 2003 für den besten Spieler der Welt des Jahres schlug Zinedine Zidane Thierry Henry und Ronaldo.</t>
+    <h>FIFA wählt den Weltfußballer des 1994.</h>
+  </pair>
+</entailment-corpus>
