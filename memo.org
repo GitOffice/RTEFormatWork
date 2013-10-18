@@ -5,9 +5,16 @@
 - Pick inter-fragment edges only (including intra-interaction) 
 - Pick inter-interaction edges only. 
 
-** TODO easy way to distinguish fragment / interaction? 
+** DONE easy way to distinguish fragment / interaction? 
 - ALMA data looks okay. (ids are all interactionid_fragid_nodeid)  
 - NICE data also looks the same. 
 - [interactionid]_[fragmen_id]_[sentenceid] 
 
+
+
+
+* Ruby sketch of the code 
+
+** TODO read and gather inter-fragment edges
+** TODO ... and non-edges 
 
