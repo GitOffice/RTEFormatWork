@@ -1,10 +1,9 @@
 
 
-* Possible (more meaningful) Entailment edges. 
+* Possible (meaningful) Entailment edges from WP2 data 
 
 - Pick inter-fragment edges only (including intra-interaction) 
 - Pick inter-interaction edges only. 
-
 ** DONE easy way to distinguish fragment / interaction? 
 - ALMA data looks okay. (ids are all interactionid_fragid_nodeid)  
 - NICE data also looks the same. 
@@ -15,6 +14,6 @@
 
 * Ruby sketch of the code 
 
-** TODO read and gather inter-fragment edges
+** DONE read and gather inter-fragment edges
 ** TODO ... and non-edges 
 
