@@ -15,5 +15,8 @@
 * Ruby sketch of the code 
 
 ** DONE read and gather inter-fragment edges
-** TODO ... and non-edges 
+** DONE ... and non-edges 
 
+* Mgraph to RTE format
+** TODO Formater: an array of [string, string, decision] ==> XML out. 
+** TODO Runner: use Mgraph, grab input (above), generate XML. 
