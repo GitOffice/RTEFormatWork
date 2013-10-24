@@ -15,7 +15,7 @@ attlist.pair &=
     | "PARAPHRASE"
     | "UNKNOWN"
   }?,
-  attribute task { "IR" | "IE" | "QA" | "SUM" }
+  attribute task { "IR" | "IE" | "QA" | "SUM" }?
 t = element t { attlist.t, text }
 attlist.t &= empty
 h = element h { attlist.h, text }
