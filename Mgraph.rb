@@ -43,7 +43,7 @@ class Mgraph
         @node_hash[node_id] = node_text 
       end
     end
-    puts("total #{@count_nodes} nodes here.") 
+    $stderr.puts("total #{@count_nodes} nodes here.") 
   end 
 
   # extract edges from raw XML and fills in @inter_fragment_edges
@@ -64,7 +64,7 @@ class Mgraph
         end
       end
     end
-    puts "In total #{count_edges} edges, and #{@inter_fragment_edges.size()} inter-fragment edges." 
+    $stderr.puts "In total #{count_edges} edges, and #{@inter_fragment_edges.size()} inter-fragment edges." 
   end
 
   # this method extract non-existing (could have been, but not there) 
@@ -100,7 +100,7 @@ class Mgraph
         end
       end
     end
-    puts("And non-edge counts are #{@count_non_edges}") 
+    $stderr.puts("And non-edge counts are #{@count_non_edges}") 
   end
   #############################################
   # and here goes some internal utility methods 
