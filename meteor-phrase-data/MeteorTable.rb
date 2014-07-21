@@ -57,8 +57,8 @@ class MeteorTable
       inner_keys.each do |rhs|
         prob = @table[lhs][rhs]
         puts prob
-        puts lhs
-        puts rhs
+        puts lhs.downcase
+        puts rhs.downcase
       end
     
     end # each 
@@ -69,6 +69,6 @@ end
 
 # simple read, sort, drop (below 0.01 default prob), and print out.
 #mtable = MeteorTable.new("data1")
-mtable = MeteorTable.new("paraphrases.aligned.it.meteorStyle")
+mtable = MeteorTable.new("paraphrases.aligned.it.filtered.meteorStyle", 0.00001)
 mtable.sort_and_printout
 
