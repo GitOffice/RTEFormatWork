@@ -70,7 +70,7 @@ end
 
 # Okay? now print via print_entailment_corpus
 edge_data = $entailment_edge_data + $nonentailment_edge_data 
-formatter = EOPFormatOut.new("IT", "usecase1") # language code, task 
+formatter = EOPFormatOut.new("EN", "usecase1") # language code, task 
 formatter.print_entailment_corpus(edge_data)
 
 # done. Hey. Don't forget to run a XML validator to check it is
