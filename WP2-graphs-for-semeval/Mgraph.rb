@@ -108,7 +108,7 @@ class Mgraph
 
   private 
   def match_node_id(string)
-    id = string.match(/ id ?="(.+?)">/)[1]
+    id = string.match(/ id ?="(.+?)"/)[1]
   end
 
   private 
